@@ -1,1 +1,2 @@
 Hello Git
+Different conflict line
