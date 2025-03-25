@@ -1,2 +1,6 @@
 Hello Git
+<<<<<<< HEAD
 Different conflict line
+=======
+Conflict line
+>>>>>>> feature-branch
